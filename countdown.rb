@@ -14,5 +14,5 @@ while x != 0
     x = x - 1
     sleep(1)
   end
-  return "HAPPY NEW YEAR!"
+  "HAPPY NEW YEAR!"
 end
